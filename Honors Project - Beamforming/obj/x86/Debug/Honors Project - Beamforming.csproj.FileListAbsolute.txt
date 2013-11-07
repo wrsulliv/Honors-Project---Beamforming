@@ -1,0 +1,12 @@
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\bin\Debug\Honors Project - Beamforming.exe
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\bin\Debug\Honors Project - Beamforming.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\Honors Project - Beamforming.exe
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\Honors Project - Beamforming.pdb
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\Honors Project - Beamforming.csproj.ResolveComReference.cache
+C:\Users\Will\documents\visual studio 2010\Projects\Honors Project - Beamforming\Honors Project - Beamforming\obj\x86\Debug\Interop.WMPLib.dll
